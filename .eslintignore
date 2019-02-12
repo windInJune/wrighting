@@ -1,0 +1,8 @@
+test/unit/coverage/**
+static/editor/*.js
+static/js/*.js
+src/*.ejs
+src/**
+test/unit/*.js
+test/e2e/*.js
+test/conflict-test/*.js
